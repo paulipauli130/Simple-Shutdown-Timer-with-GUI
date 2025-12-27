@@ -10,5 +10,5 @@ Simple timer to shut down Windows. Uses the Windows shutdown.exe. Written to run
 As of December 27, 2025:
 
 - reboot function (/r)
-- Force shutdown/restart (Forces active applications to be closed without warning.)
+- Force shutdown/restart (/f - Forces active applications to be closed without warning.)
 - English translation and language selection
