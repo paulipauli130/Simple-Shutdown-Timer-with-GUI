@@ -6,7 +6,6 @@ Simple Windows shutdown timer with GUI, presets, tray icon, and live countdown. 
 
 Simple timer to shut down Windows. Uses the Windows shutdown.exe. Written to run through my cheap AliExpress Stream Deck to shut down my PC at a specific time.
 
----------------------------------------------------------------------
 # Upcoming features:
 As of December 27, 2025:
 
